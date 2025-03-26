@@ -33,3 +33,4 @@ Kogumik lugusid väikesest uudishimulikust kassipojast kõige pisematele, et uni
 1. [Murr-murr esimest korda kinos](./stories/story-8.md)
 1. [Murr-murr reisib Murrvilli](./stories/story-9.md)
 1. [Murr-murr Murrkin Hauses](./stories/story-10.md)
+1. [Murr-murr ja imeline koidik](./stories/story-11.md)
