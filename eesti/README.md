@@ -36,3 +36,5 @@ Kogumik lugusid väikesest uudishimulikust kassipojast kõige pisematele, et uni
 1. [Murr-murr ja imeline koidik](./stories/story-11.md)
 1. [Murr-murr esimest korda autopesulas](./stories/story-12.md)
 1. [Murr-murr läheb emmega turule oste tegema](./stories/story-13.md)
+1. [Murr-murr läheb ujulasse](./stories/story-14.md)
+1. [Murr-murr läheb juuksurisse](./stories/story-15.md)
