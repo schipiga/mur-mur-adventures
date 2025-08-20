@@ -39,3 +39,4 @@ Kogumik lugusid väikesest uudishimulikust kassipojast kõige pisematele, et uni
 1. [Murr-murr läheb ujulasse](./stories/story-14.md)
 1. [Murr-murr läheb juuksurisse](./stories/story-15.md)
 1. [Murr-murr teeb võileibu](./stories/story-16.md)
+1. [Murr-murr ja kadunud šokolaadihiire saladus](./stories/story-17.md)
